@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Tariq\\Repos\\IdentityServer4OpenIdOAuth2\\SecureMicroservices\\IdentityServer\\IdentityServer.csproj": {}
+    "C:\\Users\\mehdi\\Source\\Repos\\IdentityServer4OpenIdOAuth2\\SecureMicroservices\\IdentityServer\\IdentityServer.csproj": {}
   },
   "projects": {
-    "D:\\Tariq\\Repos\\IdentityServer4OpenIdOAuth2\\SecureMicroservices\\IdentityServer\\IdentityServer.csproj": {
+    "C:\\Users\\mehdi\\Source\\Repos\\IdentityServer4OpenIdOAuth2\\SecureMicroservices\\IdentityServer\\IdentityServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Tariq\\Repos\\IdentityServer4OpenIdOAuth2\\SecureMicroservices\\IdentityServer\\IdentityServer.csproj",
+        "projectUniqueName": "C:\\Users\\mehdi\\Source\\Repos\\IdentityServer4OpenIdOAuth2\\SecureMicroservices\\IdentityServer\\IdentityServer.csproj",
         "projectName": "IdentityServer",
-        "projectPath": "D:\\Tariq\\Repos\\IdentityServer4OpenIdOAuth2\\SecureMicroservices\\IdentityServer\\IdentityServer.csproj",
+        "projectPath": "C:\\Users\\mehdi\\Source\\Repos\\IdentityServer4OpenIdOAuth2\\SecureMicroservices\\IdentityServer\\IdentityServer.csproj",
         "packagesPath": "C:\\Users\\mehdi\\.nuget\\packages\\",
-        "outputPath": "D:\\Tariq\\Repos\\IdentityServer4OpenIdOAuth2\\SecureMicroservices\\IdentityServer\\obj\\",
+        "outputPath": "C:\\Users\\mehdi\\Source\\Repos\\IdentityServer4OpenIdOAuth2\\SecureMicroservices\\IdentityServer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mehdi\\AppData\\Roaming\\NuGet\\NuGet.Config",
