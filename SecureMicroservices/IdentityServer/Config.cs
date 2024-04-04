@@ -13,7 +13,8 @@ namespace IdentityServer
                  ClientId = "movieClient",
                  AllowedGrantTypes = { GrantType.ClientCredentials },
                  ClientSecrets = {new Secret("secret".Sha256())},
-                 AllowedScopes = {"movieAPi"}
+                 AllowedScopes = {"movieAPI"}
+ 
              }
          };
 
